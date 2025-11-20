@@ -2,53 +2,59 @@
 
 # Data Sources and Project Ideas
 
-Bechdel Test in movies [https://www.kaggle.com/datasets/treelunar/bechdel-test-movies-as-of-feb-28-2023/data]
+## [Bechdel Test in Movies](https://www.kaggle.com/datasets/treelunar/bechdel-test-movies-as-of-feb-28-2023/data)
 
-*Description:*
+**Description:**
+
 Overview of the dataset, including what fields or topics it covers.
 
-Project Ideas:
+**Project Ideas:**
 
 I am very interested in possibly looking at the bechdel test success via genera and time to see what genera has more of a passing rate
 
 
-2. A few world heritage sites [https://github.com/rfordatascience/tidytuesday/tree/main/data/2024/2024-02-06 ]
+## [A Few World Heritage Sites](https://github.com/rfordatascience/tidytuesday/tree/main/data/2024/2024-02-06)
 
-Description:
+**Description:**
+
 "This week we're exploring a very small subset of UNESCO World Heritage Sites. 
 The 1 dataset, 100 visualizations project used this dataset to explore different ways of visualizing a simple dataset. "
 
-Project Ideas:
+**Project Ideas:**
 
 Figure out the comparison of haritage sights used in different countreis to what extent
 
 
-3. Stress in america [https://www.icpsr.umich.edu/web/ICPSR/studies/37288 ]
+## [Stress in America](https://www.icpsr.umich.edu/web/ICPSR/studies/37288)
 
-Description:
+**Description:**
+
 Short description of the dataset and what it contains.
 
-Project Ideas:
+**Project Ideas:**
 
 I want to look at the stress over time sequence in america and compare it to the world effects going on at the time
 
 
-4. Replication data for: Child-Adoption Matching: Preferences for Gender and Race [https://www.openicpsr.org/openicpsr/project/113894/version/V1/view]
+## [Replication data for: Child-Adoption Matching: Preferences for Gender and Race](https://www.openicpsr.org/openicpsr/project/113894/version/V1/view)
 
-Description:
+**Description:**
+
 "This paper uses a new dataset on child-adoption matching to estimate the preferences of potential adoptive parents over US-born and unborn children relinquished for adoption."
 
-Project Ideas:
+**Project Ideas:**
+
 Hoping to map out the preferencing dependent on gender and race, possibbly depending on the country
 
-5. Data Source Name
+## [American Perceptions of Artists Survey 2002](https://www.icpsr.umich.edu/web/ICPSR/studies/35571/summary)
 
-Description: American Perceptions of Artists Survey 2002 [https://www.icpsr.umich.edu/web/ICPSR/studies/35571/summary]
+**Description:**
 
 Describe what the dataset measures or collects.
 "The purpose of the study was to examine public perceptions of artists from several angles,
 including general interest in news or current events related to artists; awareness of different arts disciplines"
-Project Ideas:
+
+**Project Ideas:**
 
 Id love to graph out and see the overall appreciation of the arts in america.
 
